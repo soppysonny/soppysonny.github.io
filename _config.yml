@@ -37,9 +37,9 @@ texture:
 
 # Build settings
 # theme: texture
-```yaml
+
 remote_theme: thelehhman/texture
-```
+
 
 plugins:
   - jekyll-seo-tag
