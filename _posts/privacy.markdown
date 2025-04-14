@@ -1,0 +1,128 @@
+# Privacy Policy (English Version)
+**Effective Date:** April 11, 2025
+
+## 1. Scope  
+This policy applies to all data processing activities when using the "DAC tester" (hereinafter referred to as "the App"), including but not limited to:  
+- White noise frequency/bitrate adjustment  
+- Ad displays (Google AdMob splash ads, banner ads)  
+
+## 2. Data Collected by Third-Party SDKs  
+The App does not actively collect any user data, but the integrated Google AdMob SDK may automatically collect:  
+
+### Device Identifiers & Network Info  
+- IP address (to estimate approximate geolocation)  
+- Advertising ID (IDFA/AAID) or other unique device identifiers  
+
+### Diagnostics & Performance Data  
+- Non-user-specific crash logs (for SDK troubleshooting)  
+- App launch time, suspend rate, battery consumption (for user behavior analysis)  
+
+### Ad Interaction Data  
+- Ad content viewed by users and display frequency  
+- Click-through rates and conversion metrics  
+
+### User Engagement Data  
+- Tap actions during app launches  
+- Video watch duration (to improve ad relevance)  
+
+## 3. Purposes of Data Use  
+### Core Advertising Services  
+- Optimize ad targeting and delivery frequency  
+- Generate anonymized statistical reports  
+
+### Technical Maintenance  
+- Diagnose SDK crashes to enhance stability  
+- Monitor performance metrics for resource optimization  
+
+## 4. Third-Party Sharing  
+### Google AdMob  
+- ​**Shared data:** Device identifiers, IP address, ad interaction records  
+- ​**Privacy Policy:** [https://policies.google.com/privacy](https://policies.google.com/privacy)  
+
+### Firebase Analytics  
+- ​**Shared data:** Anonymized performance metrics & diagnostic logs  
+- ​**Privacy Policy:** [https://firebase.google.com/support/privacy](https://firebase.google.com/support/privacy)  
+
+## 5. User Rights  
+### Advertising ID Control  
+- Reset advertising ID or disable personalized ads via `iOS Settings → Privacy & Security → Apple Advertising`  
+
+### Data Access Requests  
+- Submit via email: [contact@yourapp.com](mailto:contact@yourapp.com) (limited to locally stored data)  
+
+## 6. Security Measures  
+- ​**Zero Server Transmission:** No backend servers; all SDK data processed by Google directly  
+- ​**Encrypted Storage:** Locally cached SDK data uses AES-256 encryption  
+
+## 7. Children's Privacy  
+The App complies with COPPA and does not knowingly collect data from children under 13. Contact us to remove accidental collections.  
+
+## 8. Policy Updates  
+Material changes will be notified via in-app popups. Continued use implies acceptance.  
+
+**Contact Us:** [1905810584@qq.com](mailto:1905810584@qq.com)  
+
+---
+
+# 隐私协议（中文版）
+**生效日期：​** 2025年4月11日  
+
+## 一、适用范围  
+本协议适用于您使用「小尾巴测试器」（以下简称“本应用”）时涉及的所有数据处理行为，包括但不限于：  
+- 白噪音频率/码率调整功能  
+- 广告展示（Google AdMob开屏广告、横幅广告）  
+
+## 二、第三方SDK收集的信息类型  
+本应用不主动收集任何用户数据，但集成的Google AdMob SDK可能自动收集以下信息：  
+
+### 设备标识符与网络信息  
+- IP地址（用于估算设备大致地理位置）  
+- 广告标识符（IDFA/AAID）或其他设备唯一标识符  
+
+### 诊断与性能数据  
+- 与用户无关的崩溃日志（用于SDK问题诊断）  
+- 应用启动时间、挂起率、耗电量等性能指标（用于评估用户行为及广告优化）  
+
+### 广告互动数据  
+- 用户观看的广告内容及展示频次  
+- 点击、转化率等广告交互行为  
+
+### 用户行为数据  
+- 应用启动时的点击操作  
+- 视频观看时长等互动指标（用于提升广告相关性）  
+
+## 三、信息使用目的  
+### 广告服务核心功能  
+- 优化广告投放精准度与展示频次  
+- 评估广告效果并生成匿名统计报告  
+
+### 技术维护与改进  
+- 分析SDK崩溃原因以提升稳定性  
+- 监控性能指标以优化资源占用  
+
+## 四、第三方服务共享  
+### Google AdMob  
+- ​**共享数据：​** 设备标识符、IP地址、广告互动记录  
+- ​**隐私政策：​** [https://policies.google.com/privacy](https://policies.google.com/privacy)  
+
+### Firebase Analytics  
+- ​**共享数据：​** 匿名化性能指标与诊断日志  
+- ​**隐私政策：​** [https://firebase.google.com/support/privacy](https://firebase.google.com/support/privacy)  
+
+## 五、用户权利  
+### 广告标识符控制  
+- 在iOS「设置→隐私与安全性→Apple广告」中重置广告标识符或关闭个性化广告  
+
+### 数据访问请求  
+
+## 六、数据安全声明  
+- ​**零服务器传输：​** 本应用无后台服务器，所有第三方SDK数据由Google直接处理  
+- ​**加密存储：​** SDK本地缓存数据采用AES-256加密  
+
+## 七、儿童隐私保护  
+本应用符合COPPA要求，不主动收集13岁以下儿童数据。若监护人发现儿童信息被误收集，请联系我们删除。  
+
+## 八、协议更新  
+重大变更将通过应用内弹窗通知，持续使用视为接受新条款。  
+
+**联系我们：​** [1905810584@qq.com](mailto:1905810584@qq.com)  
