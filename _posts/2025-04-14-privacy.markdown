@@ -126,3 +126,5 @@ Material changes will be notified via in-app popups. Continued use implies accep
 重大变更将通过应用内弹窗通知，持续使用视为接受新条款。  
 
 **联系我们：​** [1905810584@qq.com](mailto:1905810584@qq.com)  
+
+google.com, pub-1709854646699078, DIRECT, f08c47fec0942fa0
