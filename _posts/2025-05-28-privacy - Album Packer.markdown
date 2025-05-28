@@ -1,3 +1,112 @@
+# **Album Packer Privacy Policy**  
+**Effective Date: May 28, 2025** | **Version: v2.1**  
+**Compatible Systems: macOS 12 and later**
+
+---
+
+### **1. Data Collection and Usage Statement**
+1. **Zero Data Collection Principle**  
+   This app serves solely as a tool for downloading iCloud photo library content. **We do NOT collect, store, or transmit any of the following user information**:  
+   - Personal identifiers (e.g., name, email, Apple ID)  
+   - Device identifiers (e.g., UDID, IP address)  
+   - Photo metadata (e.g., timestamps, geolocation tags)  
+   - File content (binary data of photos/videos)  
+
+   *Technical Implementation:* All operations are performed locally via Apple's official `PhotoKit` framework without server connections.
+
+2. **iCloud Access Permissions**  
+   - Requires iCloud Photo Library authorization to enable features:  
+     ✅ Read photo content to display file lists  
+     ✅ Download files to user-specified local folders  
+   - Permissions follow the "minimum necessary" principle. Core functionality will be disabled if authorization is denied.
+
+---
+
+### **2. Data Storage and Security**
+1. **Local Processing Mechanism**  
+   - Downloaded files are saved only to user-selected directories. No app caching or backups occur.  
+   - Deletion operations affect only local devices, not iCloud cloud data.
+
+2. **Security Measures**  
+   - **Local Storage**: macOS system-level encryption (FileVault)  
+   - **Transmission**: TLS 1.3 end-to-end encryption compliant with Apple security standards  
+   - **Access Control**: Dynamic token refresh and file sharding technology
+
+---
+
+### **3. User Rights Protection**
+1. **Transparency and Control**  
+   - Revoke access anytime via **System Settings > Privacy > Photos**  
+   - Exercise the following rights via in-app forms or email (support@yourdomain.com) within 48 hours:  
+     🔍 **Right of Access**: Request iCloud download metadata records  
+     ✏️ **Right to Rectification**: Correct local file metadata  
+     🗑️ **Right to Erasure**: Clear local caches (cloud data unaffected)
+
+2. **Data Deletion Guidance**  
+   - Manually delete local files through macOS Finder  
+   - Permanently remove iCloud data via [Apple ID Management](https://appleid.apple.com)
+
+---
+
+### **4. Cross-Border Data Transfers**
+1. **Legal Basis and Scope**  
+   - Data may transfer to Apple data centers (e.g., USA, Ireland) via iCloud services  
+   - Compliance frameworks:  
+     ✅ **GDPR**: Explicit user consent (Article 6(1)(a)) and necessity (Article 49(1)(b))  
+
+2. **Security Safeguards**  
+   - **Technical**: TLS 1.3 encryption, file sharding, dynamic token refresh  
+   - **Organizational**: Regular audits of Apple's ISO 27001/SOC 2 certifications
+
+3. **User Control**  
+   - Initial launch popup discloses transfer destinations and risks  
+   - Disable iCloud sync to terminate cross-border transfers
+
+---
+
+### **5. Data Protection Officer (DPO)**
+1. **DPO Responsibilities**  
+   - External IAPP-certified (CIPM/CIPP) consultants oversee compliance  
+   - Core functions:  
+     ✅ Ensure GDPR/PIPL/PDPA compliance  
+     ✅ Handle user inquiries and complaints (email: 1905810584@qq.com)  
+
+2. **Contact Information**  
+   - **Name**: Zhang Ming  
+   - **Phone**: +86 17625339383  
+
+---
+
+### **6. Legal Responsibilities and Updates**
+1. **Third-Party Services**  
+   - Relies on iCloud availability. Contact [Apple Support](https://support.apple.com) for sync issues  
+   - Not liable for data loss due to user error
+
+2. **Policy Updates**  
+   - Material changes to cross-border terms require re-consent  
+   - Routine updates notified via in-app alerts and website公示
+
+3. **Dispute Resolution**  
+   - Governing law: User's jurisdiction or California law (most favorable interpretation)  
+   - EU users contact: privacy-eu@yourdomain.com  
+
+---
+
+### **7. Contact Information**
+   - **Name**: Zhang Ming  
+   - **Phone**: +86 17625339383  
+
+---
+
+**Developer Commitment**:  
+✅ Fully compliant with Apple's *Developer Agreement* and *App Store Review Guidelines*  
+
+---
+
+**Note**: This policy was machine-translated with human verification. For official purposes, always refer to the Chinese original.  
+
+Let me know if you need formatting adjustments or specific terminology optimizations for App Store submission.
+
 # **《Album Packer隐私政策》**  
 **生效日期：2025年05月28日** | **版本号：v2.1**  
 **适用系统：macOS 12及以上版本**
